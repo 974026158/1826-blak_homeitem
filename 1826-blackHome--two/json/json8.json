@@ -1,0 +1,130 @@
+{
+	"list" : [
+		{
+			"id" : 1,
+			"src1" : "images/zhineng/13.jpg"
+			
+		},
+		{
+			"id" : 2,
+			"src1" : "images/zhineng/14.jpg"
+			
+		},
+		{
+			"id" : 3,
+			"src1" : "images/zhineng/15.jpg"
+			
+		},
+		{
+			"id" : 4,
+			"src1" : "images/zhineng/16.jpg"
+			
+		},
+		{
+			"id" : 5,
+			"src1" : "images/zhineng/16.jpg"
+			
+		},
+		{
+			"id" : 6,
+			"src1" : "images/zhineng/15.jpg"
+			
+		},
+		{
+			"id" : 7,
+			"src1" : "images/zhineng/14.jpg"
+			
+		},
+		{
+			"id" : 8,
+			"src1" : "images/zhineng/13.jpg"
+			
+		},
+		{
+			"id" : 9,
+			"src1" : "images/zhineng/14.jpg"
+			
+		},
+		{
+			"id" : 10,
+			"src1" : "images/zhineng/15.jpg"
+			
+		},
+		{
+			"id" : 11,
+			"src1" : "images/zhineng/16.jpg"
+			
+		},
+		{
+			"id" : 12,
+			"src1" : "images/zhineng/13.jpg"
+			
+		}
+	],
+	"list2" : [
+		{
+			"id" : 1,
+			"src" : "images/zhineng/11.jpg",
+			"src1" : "images/zhineng/12.jpg"
+			
+		}
+	],
+	"list3" : [
+		{
+			"id" : 1,
+			"src" : "images/shenghuo/4.jpg",
+			"src1" : "images/shenghuo/5.jpg",
+			"src2" : "images/shenghuo/6.jpg"
+		}
+	],
+	"list4" : [
+		{
+			"id" : 1,
+			"src" : "images/shenghuo/7.jpg",
+			"price" : "¥39.00"
+		},
+		{
+			"id" : 2,
+			"src" : "images/shenghuo/7.jpg",
+			"price" : "¥59.00"
+		}
+	],
+	"list5" : [
+		{
+			"id" : 1,
+			"src" : "images/shenghuo/8.jpg",
+			"price" : "¥39.00"
+		},
+		{
+			"id" : 2,
+			"src" : "images/shenghuo/8.jpg",
+			"price" : "¥9.00"
+		}
+	],
+	"list6" : [
+		{
+			"id" : 1,
+			"src" : "images/shenghuo/9.jpg",
+			"src1" : "images/shenghuo/10.jpg"
+		}
+	],
+	"list7" : [
+		{
+			"id" : 2,
+			"src" : "images/shenghuo/11.jpg",
+			"src1" : "images/shenghuo/12.jpg"
+		}
+	],
+	"list8" : [
+		{
+			"id" : 2,
+			"src" : "images/shenghuo/13.jpg"
+		}
+	],
+	"list9" : [
+		{
+			"id" : 2,
+			"src" : "images/shenghuo/14.jpg"
+		}
+	]
+}

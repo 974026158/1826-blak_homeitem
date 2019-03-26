@@ -1,0 +1,62 @@
+{
+	"list" : [
+		{
+			"id" : 1,
+			"src" : "images/adidas/banner/8.jpg",
+			"price" : "Apple iPad Pro 平板电脑2018年新款11英寸 深空灰色 64G WLAN版",
+			"price1" : "￥5888.00",
+			"price2" : "加入购物车" 
+		},
+		{
+			"id" : 2,
+			"src" : "images/adidas/banner/8.jpg",
+			"price" : "Apple iPad Pro 平板电脑2018年新款11英寸 深空灰色 64G WLAN版",
+			"price1" : "￥5888.00",
+			"price2" : "加入购物车" 
+		},
+		{
+			"id" : 3,
+			"src" : "images/adidas/banner/8.jpg",
+			"price" : "Apple iPad Pro 平板电脑2018年新款11英寸 深空灰色 64G WLAN版",
+			"price1" : "￥5888.00",
+			"price2" : "加入购物车" 
+		},
+		{
+			"id" : 4,
+			"src" : "images/adidas/banner/8.jpg",
+			"price" : "Apple iPad Pro 平板电脑2018年新款11英寸 深空灰色 64G WLAN版",
+			"price1" : "￥5888.00",
+			"price2" : "加入购物车" 
+		}
+	],
+	"list1" : [
+		{
+			"id" : 1,
+			"src" : "images/adidas/banner/9.jpg",
+			"price" : "Apple iPad Pro 平板电脑2018年新款11英寸 深空灰色 64G WLAN版",
+			"price1" : "￥5888.00",
+			"price2" : "加入购物车" 
+		},
+		{
+			"id" : 2,
+			"src" : "images/adidas/banner/9.jpg",
+			"price" : "Apple iPad Pro 平板电脑2018年新款11英寸 深空灰色 64G WLAN版",
+			"price1" : "￥5888.00",
+			"price2" : "加入购物车" 
+		},
+		{
+			"id" : 3,
+			"src" : "images/adidas/banner/9.jpg",
+			"price" : "Apple iPad Pro 平板电脑2018年新款11英寸 深空灰色 64G WLAN版",
+			"price1" : "￥5888.00",
+			"price2" : "加入购物车" 
+		},
+		{
+			"id" : 4,
+			"src" : "images/adidas/banner/9.jpg",
+			"price" : "Apple iPad Pro 平板电脑2018年新款11英寸 深空灰色 64G WLAN版",
+			"price1" : "￥5888.00",
+			"price2" : "加入购物车" 
+		}
+	]
+}

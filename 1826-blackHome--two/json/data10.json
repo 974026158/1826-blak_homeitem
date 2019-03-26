@@ -1,0 +1,80 @@
+{
+	"list" : [
+		{
+			"id" : 1 ,
+			"src" : "images/faxian/1.jpg",
+			"wen" : "百瑞德 无人区香水" ,
+			"price" : "外观就是现在很流行的性冷淡风格，放在那里也是很有高级感的美。而香味则是淡淡的郁金香，同时还带着一点木调香气。香气很有现代感，就像品牌本身一样，充满着新鲜和未知。",
+			"twoSrc" : "images/faxian/2.jpg",
+			"home" : "居家生活圈"
+		},
+		{
+			"id" : 2 ,
+			"src" : "images/faxian/3.jpg",
+			"wen" : "秋水伊人 西装 外套" ,
+			"price" : "精致的西装翻领裁剪，衬托出迷人的颈部线条，宽松休闲的版型，舒适的穿着享受，还不挑身材，整体风格简洁大气。两侧的口袋搭配，美观又方便容纳，加上开叉造型使得手腕的活动空间更为宽广。",
+			"twoSrc" : "images/faxian/4.jpg",
+			"home" : "美搭"
+		},
+		{
+			"id" : 3 ,
+			"src" : "images/faxian/5.jpg",
+			"wen" : "逸云 连年有余 玉雕画" ,
+			"price" : "精美寿字画框，创意吉祥玉雕图案，寓意连年有余。选用天然玉石，运用传统手工雕刻技艺制作，纹理清晰流畅。玉石的温润光泽和精美的画面设计，为空间带来活泼雅致的韵味，送礼、家装更显档次。",
+			"twoSrc" : "images/faxian/6.png",
+			"home" : "寻宝小神"
+		}
+	],
+	"list1" : [
+		{
+			"id" : 1 ,
+			"src" : "images/faxian/7.jpg",
+			"wen" : "DW 女士 石英表" ,
+			"price" : "表壳采用不锈钢镀玫瑰金而成，网状的表带设计工艺精致，柔软轮廓也服贴肌肤，长度可自由调节。搭载日本石英机芯，耐用准时。而轻薄的表壳厚度仅 6mm，轻盈舒适。",
+			"twoSrc" : "images/faxian/8.jpg",
+			"home" : "育儿小故事"
+		},
+		{
+			"id" : 2 ,
+			"src" : "images/faxian/9.jpg",
+			"wen" : "Champion 印花 帽子" ,
+			"price" : "这款休闲风满满的帽子，采用纯白色色调，简约又低调。正面可见清晰的字母印花，彰显品牌魅力。帽体稳固有型，耐戴不易变形。内部采用棉质面料，舒适又吸汗。",
+			"twoSrc" : "images/faxian/10.jpg",
+			"home" : "识尖货"
+		},
+		{
+			"id" : 3 ,
+			"src" : "images/faxian/11.jpg",
+			"wen" : " iPad mini4 便携平板" ,
+			"price" : "iPad mini 4配备的iSight摄像头，不但拥有光学技术、传感器和Apple设计的图像信号处理器，还包括全景、延时摄影、慢动作、连拍快照等一系列得心应手的功能。",
+			"twoSrc" : "images/faxian/12.png",
+			"home" : "寻宝小神"
+		}
+	],
+	"list2" : [
+		{
+			"id" : 1 ,
+			"src" : "images/faxian/7.jpg",
+			"wen" : "DW 女士 石英表" ,
+			"price" : "表壳采用不锈钢镀玫瑰金而成，网状的表带设计工艺精致，柔软轮廓也服贴肌肤，长度可自由调节。搭载日本石英机芯，耐用准时。而轻薄的表壳厚度仅 6mm，轻盈舒适。",
+			"twoSrc" : "images/faxian/8.jpg",
+			"home" : "育儿小故事"
+		},
+		{
+			"id" : 2 ,
+			"src" : "images/faxian/11.jpg",
+			"wen" : "Champion 印花 帽子" ,
+			"price" : "这款休闲风满满的帽子，采用纯白色色调，简约又低调。正面可见清晰的字母印花，彰显品牌魅力。帽体稳固有型，耐戴不易变形。内部采用棉质面料，舒适又吸汗。",
+			"twoSrc" : "images/faxian/10.jpg",
+			"home" : "识尖货"
+		},
+		{
+			"id" : 3 ,
+			"src" : "images/faxian/11.jpg",
+			"wen" : " iPad mini4 便携平板" ,
+			"price" : "iPad mini 4配备的iSight摄像头，不但拥有光学技术、传感器和Apple设计的图像信号处理器，还包括全景、延时摄影、慢动作、连拍快照等一系列得心应手的功能。",
+			"twoSrc" : "images/faxian/12.png",
+			"home" : "寻宝小神"
+		}
+	]
+}

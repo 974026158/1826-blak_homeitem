@@ -1,0 +1,86 @@
+{
+	"list" : [
+		{
+			"id" : 1,
+			"src" : "images/guang/6.jpg",
+			"price" : "自营",
+			"price1" : "修复冻干粉增厚角质层红血丝淡化祛痘坑痘疤痘印敏感修护收缩毛孔安瓶玻尿酸精华",
+			"price2" : "¥",
+			"price3" : "3499.00"
+		},
+		{
+			"id" : 2,
+			"src" : "images/guang/1.jpg",
+			"price" : "自营",
+			"price1" : "黑鲨游戏手机2 竞在操控 8GB+128GB 暗影黑 骁龙855 游戏手机... 全面屏 全网通4G 双卡双待",
+			"price2" : "¥",
+			"price3" : "3499.00"
+		},
+		{
+			"id" : 3,
+			"src" : "images/guang/6.jpg",
+			"price" : "自营",
+			"price1" : "修复冻干粉增厚角质层红血丝淡化祛痘坑痘疤痘印敏感修护收缩毛孔安瓶玻尿酸精华",
+			"price2" : "¥",
+			"price3" : "3499.00"
+		},
+		{
+			"id" : 4,
+			"src" : "images/guang/4.jpg",
+			"price" : "自营",
+			"price1" : "黑鲨游戏手机2 竞在操控 8GB+128GB 暗影黑 骁龙855 游戏手机... 全面屏 全网通4G 双卡双待",
+			"price2" : "¥",
+			"price3" : "3499.00"
+		},
+		{
+			"id" : 5,
+			"src" : "images/guang/3.jpg",
+			"price" : "",
+			"price1" : "",
+			"price2" : "",
+			"price3" : ""
+		}
+	],
+	"list1" : [
+		{
+			"id" : 1,
+			"src" : "images/guang/1.jpg",
+			"price" : "自营",
+			"price1" : "黑鲨游戏手机2 竞在操控 8GB+128GB 暗影黑 骁龙855 游戏手机... 全面屏 全网通4G 双卡双待",
+			"price2" : "¥",
+			"price3" : "3499.00"
+		},
+		{
+			"id" : 2,
+			"src" : "images/guang/1.jpg",
+			"price" : "自营",
+			"price1" : "黑鲨游戏手机2 竞在操控 8GB+128GB 暗影黑 骁龙855 游戏手机... 全面屏 全网通4G 双卡双待",
+			"price2" : "¥",
+			"price3" : "3499.00"
+		},
+		{
+			"id" : 3,
+			"src" : "images/guang/4.jpg",
+			"price" : "自营",
+			"price1" : "黑鲨游戏手机2 竞在操控 8GB+128GB 暗影黑 骁龙855 游戏手机... 全面屏 全网通4G 双卡双待",
+			"price2" : "¥",
+			"price3" : "3499.00"
+		},
+		{
+			"id" : 4,
+			"src" : "images/guang/1.jpg",
+			"price" : "自营",
+			"price1" : "黑鲨游戏手机2 竞在操控 8GB+128GB 暗影黑 骁龙855 游戏手机... 全面屏 全网通4G 双卡双待",
+			"price2" : "¥",
+			"price3" : "3499.00"
+		},
+		{
+			"id" : 5,
+			"src" : "images/guang/2.jpg",
+			"price" : "",
+			"price1" : "",
+			"price2" : "",
+			"price3" : ""
+		}
+	]
+}

@@ -1,0 +1,60 @@
+{
+	"list" : [
+		{
+			"id" : 1,
+			"src" : "images/lingjuan/1.jpg",
+			"price" : "更多精选好券",
+			"price1" : "¥",
+			"price2" : "1500",
+			"price3" : "满101元可用",
+			"price4" : "全品类通用券（除特殊商品）【10/11/12/13点限量抢】"
+		},
+		{
+			"id" : 2,
+			"src" : "images/lingjuan/1.jpg",
+			"price" : "更多精选好券",
+			"price1" : "¥",
+			"price2" : "150",
+			"price3" : "满106元可用",
+			"price4" : "全品类通用券（除特殊商品）【10/11/12/13点限量抢】"
+		},
+		{
+			"id" : 3,
+			"src" : "images/lingjuan/1.jpg",
+			"price" : "更多精选好券",
+			"price1" : "¥",
+			"price2" : "15",
+			"price3" : "满108元可用",
+			"price4" : "全品类通用券（除特殊商品）【10/11/12/13点限量抢】"
+		}
+	],
+	"list1" : [
+		{
+			"id" : 1,
+			"src" : "images/lingjuan/1.jpg",
+			"price" : "更多精选好券",
+			"price1" : "¥",
+			"price2" : "3500",
+			"price3" : "满101元可用",
+			"price4" : "全品类通用券（除特殊商品）【10/11/12/13点限量抢】"
+		},
+		{
+			"id" : 2,
+			"src" : "images/lingjuan/1.jpg",
+			"price" : "更多精选好券",
+			"price1" : "¥",
+			"price2" : "350",
+			"price3" : "满106元可用",
+			"price4" : "全品类通用券（除特殊商品）【10/11/12/13点限量抢】"
+		},
+		{
+			"id" : 3,
+			"src" : "images/lingjuan/1.jpg",
+			"price" : "更多精选好券",
+			"price1" : "¥",
+			"price2" : "35",
+			"price3" : "满108元可用",
+			"price4" : "全品类通用券（除特殊商品）【10/11/12/13点限量抢】"
+		}
+	]
+}

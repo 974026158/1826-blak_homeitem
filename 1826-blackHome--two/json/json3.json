@@ -1,0 +1,18 @@
+{
+	"list" : [
+		{
+			"id" : 1,
+			"src" : "images/shishang/1.jpg",
+			"src1" : "images/shishang/2.jpg",
+			"src2" : "images/shishang/3.jpg"
+		}
+	],
+	"list1" : [
+		{
+			"id" : 2,
+			"src" : "images/shishang/4.jpg",
+			"src1" : "images/shishang/5.jpg",
+			"src2" : "images/shishang/6.jpg"
+		}
+	]
+}

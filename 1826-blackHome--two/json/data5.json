@@ -1,0 +1,43 @@
+{
+	"list" : [
+		{
+			"id" : 1,
+			"src" : "images/paihangbang/1.jpg",
+			"count" : 1,
+			"price" : "玉兰油OLAY面霜新生塑颜空气感凝霜尝新装14g（大红瓶空气霜小样 赠20元大红瓶空气霜优惠券 紧轮廓淡细纹）"
+		},
+		{
+			"id" : 2,
+			"src" : "images/paihangbang/2.jpg",
+			"count" : 2,
+			"price" : "美迪惠尔(Mediheal)水润保湿面膜10片水库针剂(补水 男女护肤适用）可莱丝 韩国进口"
+		},
+		{
+			"id" : 3,
+			"src" : "images/paihangbang/3.jpg",
+			"count" : 3,
+			"price" : "完美芦荟胶40g 3支装"
+		}
+	],
+	"list1" : [
+		{
+			"id" : 4,
+			"src" : "images/paihangbang/4.jpg",
+			"count" : 4,
+			"price" : "资生堂珊珂（SENKA）绵润泡沫洁面乳120g（日本进口洗面奶 深层清洁 清爽滋养 男女适用）"
+		},
+		{
+			"id" : 5,
+			"src" : "images/paihangbang/5.jpg",
+			"count" : 5,
+			"price" : "WIS隐形水润面膜【24片装】补水保湿清洁控油收缩毛孔提亮肤色男女士学生贴套装"
+		},
+		{
+			"id" : 6,
+			"src" : "images/paihangbang/6.jpg",
+			"count" : 6,
+			"price" : "一叶子面膜 营润亮颜奢养礼盒30片 补水保湿黑面膜 去黑头 收缩毛孔 男女护肤品套装"
+		}
+	]
+	
+}

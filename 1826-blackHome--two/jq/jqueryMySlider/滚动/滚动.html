@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script src="http://www.jq22.com/jquery/jquery-1.10.2.js"></script>
+	<style type="text/css">
+		*{margin: 0;padding: 0;}
+		ul{list-style: none;}
+		a{text-decoration: none;color: #000;}
+		body{background: #282828;font-family: Arial,'微软雅黑';}
+
+		.box{width: 600px;height: 100px;margin: 100px auto 0;padding: 20px;background: #fff;border: 2px dashed #999;overflow: hidden;}
+		ul{width: 200%;height: 100px;overflow: hidden;}
+		li{width: 100px;height: 100px;background: #09f;text-align: center;line-height: 100px;color: #fff;font-size: 24px;float: left;margin: 0 10px;}
+		li a{color: #fff;}
+	</style>
+</head>
+<body>
+	<div class="box">
+		<ul>
+			<li><a href="javscript:;">1</a></li>
+			<li><a href="javscript:;">2</a></li>
+			<li><a href="javscript:;">3</a></li>
+			<li><a href="javscript:;">4</a></li>
+			<li><a href="javscript:;">5</a></li>
+		</ul>
+	</div>
+	<script type="text/javascript" src="js/pack.js"></script>
+	<script type="text/javascript">
+		
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('.box ul').mar({
+				time:60,
+				speed:10,
+			});
+		});
+	</script>
+</body>
+</html>

@@ -1,0 +1,72 @@
+{
+	"list" : [
+		{
+			"id" : 1,
+			"src" : "images/shishang/9.jpg",
+			"price" : "¥39.00"
+		},
+		{
+			"id" : 2,
+			"src" : "images/shishang/10.jpg",
+			"price" : "¥59.00"
+		}
+	],
+	"list1" : [
+		{
+			"id" : 1,
+			"src" : "images/shishang/11.jpg",
+			"price" : "¥69.00"
+		},
+		{
+			"id" : 2,
+			"src" : "images/shishang/13.jpg",
+			"price" : "¥99.00"
+		}
+	],
+	"list2" : [
+		{
+			"id" : 1,
+			"src" : "images/shishang/14.jpg",
+			"src1" : "images/shishang/15.jpg"
+		}
+	],
+	"list3" : [
+		{
+			"id" : 2,
+			"src" : "images/shishang/16.jpg",
+			"src1" : "images/shishang/17.jpg"
+		}
+	],
+	"list4" : [
+		{
+			"id" : 1,
+			"src" : "images/zhineng/1.png"
+		}
+	],
+	"list5" : [
+		{
+			"id" : 1,
+			"src" : "images/zhineng/7.jpg",
+			"src1" : "images/zhineng/8.jpg"
+		}
+	],
+	"list6" : [
+		{
+			"id" : 2,
+			"src" : "images/zhineng/9.jpg",
+			"src1" : "images/zhineng/10.jpg"
+		}
+	],
+	"list7" : [
+		{
+			"id" : 2,
+			"src" : "images/zhineng/5.jpg"
+		}
+	],
+	"list8" : [
+		{
+			"id" : 2,
+			"src" : "images/zhineng/6.png"
+		}
+	]
+}

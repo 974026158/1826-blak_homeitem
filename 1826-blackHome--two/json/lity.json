@@ -1,0 +1,71 @@
+{
+	"list" : [
+		{
+			"id" : 1,
+			"price" : "司法拍卖",
+			"price1" : "&#xe634;",
+			"price2" : "法院好货 公开抢拍",
+			"src" : "images/tuijian/1.jpg"
+		},
+		{
+			"id" : 2,
+			"price" : "司法拍卖",
+			"price1" : "&#xe634;",
+			"price2" : "法院好货 公开抢拍",
+			"src" : "images/tuijian/1.jpg"
+		},
+		{
+			"id" : 3,
+			"price" : "司法拍卖",
+			"price1" : "&#xe634;",
+			"price2" : "法院好货 公开抢拍",
+			"src" : "images/tuijian/1.jpg"
+		}
+	],
+	"list1" : [
+		{
+			"id" : 1,
+			"price" : "企业采购",
+			"price1" : "&#xe634;",
+			"price2" : "法院好货 公开抢拍",
+			"src" : "images/tuijian/2.jpg"
+		},
+		{
+			"id" : 2,
+			"price" : "企业采购",
+			"price1" : "&#xe634;",
+			"price2" : "法院好货 公开抢拍",
+			"src" : "images/tuijian/2.jpg"
+		},
+		{
+			"id" : 3,
+			"price" : "企业采购",
+			"price1" : "&#xe634;",
+			"price2" : "法院好货 公开抢拍",
+			"src" : "images/tuijian/2.jpg"
+		}
+	],
+	"list2" : [
+		{
+			"id" : 1,
+			"price" : "京东旅行",
+			"price1" : "&#xe634;",
+			"price2" : "法院好货 公开抢拍",
+			"src" : "images/tuijian/3.jpg"
+		},
+		{
+			"id" : 2,
+			"price" : "京东旅行",
+			"price1" : "&#xe634;",
+			"price2" : "法院好货 公开抢拍",
+			"src" : "images/tuijian/3.jpg"
+		},
+		{
+			"id" : 3,
+			"price" : "京东旅行",
+			"price1" : "&#xe634;",
+			"price2" : "法院好货 公开抢拍",
+			"src" : "images/tuijian/3.jpg"
+		}
+	]
+}

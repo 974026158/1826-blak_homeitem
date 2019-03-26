@@ -1,0 +1,72 @@
+{
+	"list" : [
+		{
+			"id" : 1,
+			"src" : "images/zhibo/3.jpg",
+			"icon" : "&#xe543;",
+			"price" : "下单送翡翠小葫芦",
+			"mask" : ""
+		},
+		{
+			"id" : 2,
+			"src" : "images/zhibo/3.jpg",
+			"icon" : "&#xe543;",
+			"price" : "下单送翡翠小葫芦",
+			"mask" : ""
+		},
+		{
+			"id" : 3,
+			"src" : "images/zhibo/3.jpg",
+			"icon" : "&#xe543;",
+			"price" : "下单送翡翠小葫芦",
+			"mask" : ""
+		},
+		{
+			"id" : 4,
+			"src" : "images/zhibo/3.jpg",
+			"icon" : "&#xe543;",
+			"price" : "下单送翡翠小葫芦",
+			"mask" : ""
+		}
+	],
+	"list1" : [
+		{
+			"id" : 1,
+			"src" : "images/zhibo/2.jpg",
+			"icon" : "&#xe543;",
+			"price" : "不能阻挡我对洁净的向往",
+			"price1" : "抽奖",
+			"mask" : ""
+		}
+	],
+	"list2" : [
+		{
+			"id" : 1,
+			"src" : "images/zhibo/5.jpg",
+			"icon" : "&#xe543;",
+			"price" : "春季搭配大纲",
+			"mask" : ""
+		},
+		{
+			"id" : 2,
+			"src" : "images/zhibo/5.jpg",
+			"icon" : "&#xe543;",
+			"price" : "春季搭配大纲",
+			"mask" : ""
+		},
+		{
+			"id" : 3,
+			"src" : "images/zhibo/5.jpg",
+			"icon" : "&#xe543;",
+			"price" : "春季搭配大纲",
+			"mask" : ""
+		},
+		{
+			"id" : 4,
+			"src" : "images/zhibo/5.jpg",
+			"icon" : "&#xe543;",
+			"price" : "春季搭配大纲",
+			"mask" : ""
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"list" : [
+		{
+			"id" : 1,
+			"src" : "images/mime/1.jpg",
+			"price" : "设计与技术百花齐放？ AWE2019洗衣机产品潮流前瞻流流",
+			"price1" : "在传统大家电中，洗衣机的产品设计可以用不温不火来形容，在AWE2018惊艳登场双驱洗衣机，也并没也并传统大家电中，洗衣机的传统大家"
+		}
+	],
+	"list1" : [
+		{
+			"id" : 2,
+			"src" : "images/mime/2.jpg",
+			"price" : "嫌弃钱包太臃肿, 那是因为你没遇到它",
+			"price1" : "许多男生出门都不愿意背包，想直接把钱包塞裤兜里，但不是装不进去就是大腿一侧鼓起来，略难看。"
+		}
+	],
+	"list2" : [
+		{
+			"id" : 3,
+			"src" : "images/mime/3.jpg",
+			"src1" : "images/mime/4.jpg",
+			"src2" : "images/mime/5.jpg",
+			"src3" : "images/mime/4.jpg",
+			"price" : "秋膘蠢蠢欲动？协装备用奔跑甩脱",
+			"price1" : "随着秋天的到来，身上的秋膘和肉肉也开始蠢蠢欲动，想要爬上身。对于重视自己身材的小伙伴们岂能容忍，可以选择晨跑或者夜"
+		}
+	],
+	"list3" : [
+		{
+			"id" : 4,
+			"src" : "images/mime/6.jpg",
+			"src1" : "images/mime/7.jpg",
+			"src2" : "images/mime/8.jpg",
+			"src3" : "images/mime/9.jpg"
+		}
+	]
+}

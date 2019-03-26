@@ -1,0 +1,545 @@
+
+
+
+@charset 'utf-8';
+* {
+	box-sizing: border-box;
+}
+
+html,
+body,
+ul,
+li,
+ol,
+dl,
+dd,
+dt,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+form,
+fieldset,
+legend,
+img,
+input,
+figure {
+	margin: 0;
+	padding: 0;
+}
+
+i,
+a {
+	font-style: normal;
+}
+
+b,
+strong {
+	font-weight: normal;
+}
+
+u,
+a {
+	text-decoration: none;
+}
+
+ul,
+li,
+ol {
+	list-style: none;
+}
+
+img {
+	border: 0;
+	display: block;
+}
+
+input {
+	outline: none;
+}
+/*全站搜索框*/
+#Total{
+	width: 990px;
+	height: 56px;
+	background: #dfdfdf;
+	margin: 0 auto;
+	padding-bottom: 12px;
+	padding-top: 12px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+#Total .TotalDiv{
+	width: 347px;
+	height: 32px;
+	
+}
+#Total .TotalDiv input{
+	width: 202px;
+	height: 32px;
+	background: #fff;
+	border: none;
+	float: left;
+}
+#Total .TotalDiv .Total_input{
+	width:62px;
+	height: 26px;
+	float: left;
+	font-size: 12px;
+	line-height: 26px;
+	margin-left: 5px;
+}
+#Total .TotalDiv .Total_input .Total_radio{
+	width: 13px;
+	height: 13px;
+	vertical-align: bottom;
+	margin-top: 5px;
+	margin-right: 5px;
+}
+#Total .TotalDiv button{
+	display: block;
+	background: red;
+	width: 73px;
+	height: 32px;
+	border: none;
+	float: right;
+	margin-left: 5px;
+	font-size: 12px;
+	color: #fff;
+	text-align: center;
+	line-height: 32px;
+}
+#Main{
+	width: 990px;
+	height: 5211px;
+	margin: 0 auto;
+}
+#Main .Main_left{
+	width: 190px;
+	height: 5211px;
+	float: left;
+	
+}
+#Main .Main_left .Main_leftOneDiv{
+	width: 190px;
+	height: 4757px;
+	border: 1px solid #ccc;
+	margin-bottom: 22px;
+}
+#Main .Main_left .Main_leftOneDiv h3{
+	width: 188px;
+	height: 41px;
+	background: url(../images/adidas/bg.gif) -262px 0;
+}
+#Main .Main_left .Main_leftOneDiv h4{
+	width: 188px;
+	height: 32px;
+	background: url(../images/adidas/bg1.jpg);
+	line-height: 32px;
+}
+#Main .Main_left .Main_leftOneDiv h4 .hh3{
+	width: 5px;
+	height: 5px;
+	float: left;
+	margin: 14px 10px 0 15px;
+	background: url(../images/adidas/bg.gif) -461px 0;
+}
+#Main .Main_left .Main_leftOneDiv h4 .hhh3{
+	display: block;
+	width: 130px;
+	color: #666666;
+	font-size: 12px;
+	float: left;
+}
+#Main .Main_left .Main_leftOneDiv h4 .hhhh3{
+	width: 7px;
+	height: 9px;
+	float: left;
+	background: url(../images/adidas/bg.gif) -453px -10px;
+	margin-top: 12px;
+}
+#Main .Main_left .Main_leftOneDiv .left_month{
+	width: 188px;
+	height: 500px;
+	padding-left: 25px;
+}
+#Main .Main_left .Main_leftOneDiv .left_month .left_OneTopDiv{
+	width: 150px;
+	height: 25px;
+	line-height: 25px;
+}
+#Main .Main_left .Main_leftOneDiv .left_month .left_OneTopDiv .left_DivSpan{
+	display: block;
+	width: 3px;
+	height: 5px;
+	float: left;
+	background: url(../images/adidas/bg.gif) -467px 0;
+	margin-top: 9px;
+	margin-right: 7px;
+}
+#Main .Main_left .Main_leftOneDiv .left_month .left_OneTopDiv .left_DivA{
+	font-size: 11px;
+	color: #999;
+	float: left;
+	
+}
+#Main .Main_left .Main_leftOneDiv .left_month .left_OneTopDiv .left_DivA:hover{
+	color: red;
+}
+#Main .Main_left .left_shoe{
+	width: 190px;
+	height: 432px;
+	border: 1px solid #CCCCCC;
+	margin-top: 7px;
+}
+#Main .Main_left .left_shoe .left_shoeTop{
+	width: 188px;
+	height: 30px;
+	background: #DDDDDD;
+	border-bottom: 1px solid #999;
+	padding-left: 8px;
+	font-size: 12px;
+	color: #666;
+	line-height: 30px;
+}
+#Main .Main_left .left_shoe .left_shoeBottom{
+	width: 188px;
+	height: 403px;
+	padding-left: 6px;
+	padding-right: 6px;
+}
+#Main .Main_left .left_shoe .left_shoeBottom .left_shoeAdidas{
+	width: 176px;
+	height: 67px;
+	border-bottom: 1px dotted #ccc;
+	padding-top: 8px;
+	padding-left: 70px;
+	position: relative;
+	
+}
+#Main .Main_left .left_shoe .left_shoeBottom .left_shoeAdidas:nth-child(6){
+	border-bottom: none;
+}
+#Main .Main_left .left_shoe .left_shoeBottom .left_shoeAdidas .left_Awen{
+	width: 106px;
+	height: 49px;
+}
+#Main .Main_left .left_shoe .left_shoeBottom .left_shoeAdidas .left_Awen .left_Awen_wen{
+	display: block;
+	width: 106px;
+	height: 32px;
+	color: #333333;
+	font-size: 12px;
+	overflow: hidden;
+}
+#Main .Main_left .left_shoe .left_shoeBottom .left_shoeAdidas .left_Awen .left_Awen_wen:hover{
+	color: blue;
+}
+#Main .Main_left .left_shoe .left_shoeBottom .left_shoeAdidas .left_Awen .left_AdidasPrice{
+	display: block;
+	font-size: 12px;
+	color: #CC0000;
+	font-weight: 900;
+	width: 106px;
+}
+#Main .Main_left .left_shoe .left_shoeBottom .left_shoeAdidas .left_AdidasImg{
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	left: 13px;
+	top: 8px;
+}
+#Main .Main_left .left_shoe .left_shoeBottom .left_shoeAdidas .left_AdidasNumber{
+	display: block;
+	width: 18px;
+	height: 18px;
+	font-size: 12px;
+	color: red;
+	text-align: center;
+	line-height: 18px;
+	position: absolute;
+	top: 7px;
+	left: -5px;
+	background: url(../images/adidas/11.png) -232px -322px;
+}
+#Main .Main_left .left_shoe .left_shoeBottom .left_shoeAdidas:nth-child(4) .left_AdidasNumber{
+	display: block;
+	width: 18px;
+	height: 18px;
+	font-size: 12px;
+	color: #ccc;
+	text-align: center;
+	line-height: 18px;
+	position: absolute;
+	top: 7px;
+	left: -5px;
+	background: url(../images/adidas/11.png) -256px -322px;
+}
+#Main .Main_left .left_shoe .left_shoeBottom .left_shoeAdidas:nth-child(5) .left_AdidasNumber{
+	display: block;
+	width: 18px;
+	height: 18px;
+	font-size: 12px;
+	color: #ccc;
+	text-align: center;
+	line-height: 18px;
+	position: absolute;
+	top: 7px;
+	left: -5px;
+	background: url(../images/adidas/11.png) -256px -322px;
+}
+#Main .Main_left .left_shoe .left_shoeBottom .left_shoeAdidas:nth-child(6) .left_AdidasNumber{
+	display: block;
+	width: 18px;
+	height: 18px;
+	font-size: 12px;
+	color: #ccc;
+	text-align: center;
+	line-height: 18px;
+	position: absolute;
+	top: 7px;
+	left: -5px;
+	background: url(../images/adidas/11.png) -256px -322px;
+}
+#Main .right_shoebigDiv{
+	width: 790px;
+	height: 3480px;
+	float: right;
+	overflow: hidden;
+}
+#Main .right_shoebigDiv .right_topshoeDiv{
+	width: 790px;
+	height: 41px;
+	border-bottom: 1px solid #ccc;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+}
+#Main .right_shoebigDiv .right_topshoeDiv .right_rele{
+	display: block;
+	width: 89px;
+	height: 30px;
+	border: 1px solid #ccc;
+	border-bottom: none;
+	float: left;
+	padding-top: 4px;
+	padding-left: 15px;
+	border-radius:5px 5px 0 0 ;
+	margin-right: 8px;
+	font-size: 12px;
+	color: #fff;
+	background: #c60001;
+	line-height: 20px;
+	font-weight: 900;
+}
+
+#Main .right_shoebigDiv .right_topshoeDiv .right_rele:nth-child(2),
+#Main .right_shoebigDiv .right_topshoeDiv .right_rele:nth-child(3),
+#Main .right_shoebigDiv .right_topshoeDiv .right_rele:nth-child(4),
+#Main .right_shoebigDiv .right_topshoeDiv .right_rele:nth-child(5){
+	background: #E9E9E9;
+	color: #333;
+}
+#Main .right_shoebigDiv .right_topshoeDiv .right_rele:nth-child(2):hover,
+#Main .right_shoebigDiv .right_topshoeDiv .right_rele:nth-child(3):hover,
+#Main .right_shoebigDiv .right_topshoeDiv .right_rele:nth-child(4):hover,
+#Main .right_shoebigDiv .right_topshoeDiv .right_rele:nth-child(5):hover{
+	background: #C60001;
+	color: #fff;
+}
+#Main .right_shoebigDiv .right_topshoeDiv .right_rele .right_tenDiv{
+	float: left;
+	width: 10px;
+	height: 10px;
+	background: url(../images/adidas/2.gif);
+	background-position-x: -10px;
+	background-position-y: -10px;
+	margin-top: 6px;
+	margin-right: 5px;
+	
+}
+#Main .right_shoebigDiv .right_bottomshoeDiv{
+	width: 790px;
+	height: 3376px;
+	
+}
+#Main .right_shoebigDiv .right_bottomshoeDiv .right_bottomoUl{
+	width: 1580px;
+	height: 3376px;
+}
+#Main .right_shoebigDiv .right_bottomshoeDiv .right_bottomoUl .right_bottomli{
+	width: 790px;
+	height: 3376px;
+	float: left;
+}
+#Main .right_shoebigDiv .right_bottomshoeDiv .right_bottomoUl .right_bottomli .right_li_Div_One{
+	width: 262px;
+	height: 412px;
+	float: left;
+	background: #fff;
+	border-top: 1px dotted #ccc;
+	margin-top: 10px;
+	padding-left: 20px;
+	padding-top: 10px;
+	cursor: pointer;
+	margin-right: 1px;
+	position: relative;
+}
+#Main .right_shoebigDiv .right_bottomshoeDiv .right_bottomoUl .right_bottomli .right_li_Div_One:hover{
+	border: 1px solid #ccc;
+	box-shadow: 0 15px 30px rgba(0,0,0,0.3);
+}
+#Main .right_shoebigDiv .right_bottomshoeDiv .right_bottomoUl .right_bottomli .right_li_Div_One:hover .right_bottom_hide_Div{
+	display: block;
+}
+#Main .right_shoebigDiv .right_bottomshoeDiv .right_bottomoUl .right_bottomli .right_li_Div_One .right_liImg{
+	width: 240px;
+	height: 227px;
+}
+#Main .right_shoebigDiv .right_bottomshoeDiv .right_bottomoUl .right_bottomli .right_li_Div_One .right_lismallImg{
+	width: 240px;
+	height: 29px;
+}
+#Main .right_shoebigDiv .right_bottomshoeDiv .right_bottomoUl .right_bottomli .right_li_Div_One .right_lismallImg .right_Imgboeder{
+	width: 29px;
+	height: 29px;
+	border: 1px solid red;
+	padding: 1px;
+}
+#Main .right_shoebigDiv .right_bottomshoeDiv .right_bottomoUl .right_bottomli .right_li_Div_One .right_smallWen{
+	width: 240px;
+	height: 32px;
+	margin-top: 10px;
+	font-size: 12px;
+	color: #666;
+	font-family: verdana;
+}
+#Main .right_shoebigDiv .right_bottomshoeDiv .right_bottomoUl .right_bottomli .right_li_Div_One .right_smallWen:hover{
+	color: blue;
+}
+#Main .right_shoebigDiv .right_bottomshoeDiv .right_bottomoUl .right_bottomli .right_li_Div_One .right_smallPrice{
+	width: 240px;
+	height: 20px;
+	margin-top: 5px;
+	font-size: 12px;
+	font-weight: 900;
+	color: red;
+	line-height: 20px;
+	font-family: verdana;
+}
+#Main .right_shoebigDiv .right_bottomshoeDiv .right_bottomoUl .right_bottomli .right_li_Div_One .right_smallEavl{
+	width: 240px;
+	height: 20px;
+	font-size: 11px;
+	color: #005AA0;
+	margin-top: 1px;
+	font-family: verdana;
+}
+#Main .right_shoebigDiv .right_bottomshoeDiv .right_bottomoUl .right_bottomli .right_li_Div_One .right_smallBtn{
+	width: 100px;
+	height: 20px;
+	margin-top: 5px;
+	background: red;
+	text-align: center;
+	line-height: 20px;
+	font-size: 16px;
+	color: #fff;
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: 400;
+}
+#Main .right_shoebigDiv .right_bottomshoeDiv .right_bottomoUl .right_bottomli .right_li_Div_One .right_bottom_hide_Div{
+	display: block;
+	width: 33px;
+	height: 25px;
+	background: #000;
+	position: absolute;
+	right: 0;
+	top: 0;
+	font-size: 12px;
+	color: #fff;
+	text-align: center;
+	line-height: 25px;
+	opacity: 0.5;
+	display: none;
+}
+#Main .right_shoebigDiv .right_bottomshoeDiv .right_bottomoUl .right_bottomli .right_li_Div_One .right_bottom_hide_Div:hover{
+	opacity: 1;
+}
+#rightfixed{
+	width: 32px;
+	height: 100%;
+	background:#37383c;
+	position: fixed;
+	right: 0;
+	top: 0;
+	text-align: center;
+}
+#rightfixed .rightfixed_1{
+	width: 32px;
+	height: 530px;
+	/*background: #990055;*/
+	position: absolute;
+	right: 0;
+	top: 25%;
+}
+#rightfixed .rightfixed_1 .tubiao1{
+	width: 26px;
+	height : 40px;
+	border-bottom : 1px solid #666666;
+	line-height: 40px;
+	margin: 0 auto;
+	/*background: yellow;*/
+	margin-bottom: 2px;
+}
+#rightfixed .rightfixed_1 .tubiao1 i{
+	color: #ef5549;
+}
+#rightfixed .rightfixed_1 .tubiao2 i{
+	color: #ef5549;
+}
+#rightfixed .rightfixed_1 .tubiao2{
+	width: 26px;
+	height : 91.4px;
+	border-bottom : 1px solid #666666;
+	line-height: 40px;
+	margin: 0 auto;
+	color: #ef5549;
+}
+#rightfixed .rightfixed_1 .tubiao1:hover,
+#rightfixed .rightfixed_1 .tubiao2:hover{
+	background:#CE160D;
+	
+}
+#rightfixed .rightfixed_1 .tubiao1:hover i{
+	color: #F5F2F0;
+}
+#rightfixed .rightfixed_1 .tubiao2:hover i{
+	color: #F5F2F0;
+}
+#rightfixed .rightfixed_1 .tubiao2:hover span{
+	color:#F5F2F0 ;
+}
+/*右侧隐藏div*/
+#rightfixed .rightfixed_1 .tubiao1 .hidefixed{/*隐藏div*/
+	width: 108px;
+	height: 40px;
+	background: black;
+	opacity: 0.7;
+	position: absolute;
+	right: 80px;
+	top: 0;
+	color: white;
+	text-align: center;
+	line-height: 40px;
+	font-size: 12px;
+	display: none;
+	border-radius: 5px;
+}
+#rightfixed .rightfixed_1 .tubiao1 .hidefixed .arrow{/*隐形的菱形图标*/
+	position: absolute;
+	right: -5px;
+	color: black;
+	opacity: 0.7;
+}

@@ -1,0 +1,53 @@
+{
+	"list" : [
+		{
+			"id" : 1,
+			"src" : "images/realMan/1.jpg",
+			"price" : "机械达人 · 真男人玩表",
+			"src1" : "images/realMan/3.jpg",
+			"src2" : "images/realMan/3.jpg",
+			"src3" : "images/realMan/3.jpg"
+		},
+		{
+			"id" : 2,
+			"src" : "images/realMan/4.jpg",
+			"price" : "篮球本命 · 约一场球",
+			"src1" : "images/realMan/5.jpg",
+			"src2" : "images/realMan/5.jpg",
+			"src3" : "images/realMan/5.jpg"
+		},
+		{
+			"id" : 3,
+			"src" : "images/realMan/6.jpg",
+			"price" : "巅峰音质 · 音乐发烧友",
+			"src1" : "images/realMan/7.jpg",
+			"src2" : "images/realMan/7.jpg",
+			"src3" : "images/realMan/7.jpg"
+		},
+		{
+			"id" : 4,
+			"src" : "images/realMan/9.jpg",
+			"price" : "电视控 · 有爱有家",
+			"src1" : "images/realMan/10.jpg",
+			"src2" : "images/realMan/10.jpg",
+			"src3" : "images/realMan/10.jpg"
+		},
+		{
+			"id" : 5,
+			"src" : "images/realMan/11.jpg",
+			"price" : "元气少女 · 活力闪耀",
+			"src1" : "images/realMan/12.jpg",
+			"src2" : "images/realMan/12.jpg",
+			"src3" : "images/realMan/12.jpg"
+		},
+		{
+			"id" : 6,
+			"src" : "images/realMan/13.jpg",
+			"price" : "有矿家庭 · 钱多有矿",
+			"src1" : "images/realMan/14.jpg",
+			"src2" : "images/realMan/14.jpg",
+			"src3" : "images/realMan/14.jpg"
+		}
+	]
+	
+}
