@@ -6,14 +6,14 @@ $("#footer").load("index.html #footer");
 
 /*请求ajax数据*/
 var Adi = $.ajax({
-	type:"get",
-	url:"json/adidas1.json",
-	async:true
+	type: "get",
+	url: "json/adidas1.json",
+	async: true
 });
-Adi.done(function(A){
+Adi.done(function(A) {
 	//console.log( A )
 	var strA = ""
-	for( var i = 0 ; i < A.list.length; i++ ){
+	for(var i = 0; i < A.list.length; i++) {
 		var Adi1 = A.list[i];
 		strA += `<div class="left_shoeAdidas">
 					<span class="left_AdidasNumber">${Adi1.Acc}</span>
@@ -25,7 +25,7 @@ Adi.done(function(A){
 				</div>`
 	}
 	var strA1 = ""
-	for( var i = 0 ; i < A.list2.length; i++ ){
+	for(var i = 0; i < A.list2.length; i++) {
 		var Adi2 = A.list2[i];
 		strA1 += `<div class="right_li_Div_One">
 					<span class="right_bottom_hide_Div">关注</span>
@@ -40,7 +40,7 @@ Adi.done(function(A){
 				 </div>`
 	}
 	var strA11 = ""
-	for( var i = 0 ; i < A.list3.length; i++ ){
+	for(var i = 0; i < A.list3.length; i++) {
 		var Adi21 = A.list2[i];
 		strA11 += `<div class="right_li_Div_One">
 					<span class="right_bottom_hide_Div">关注</span>
@@ -54,88 +54,90 @@ Adi.done(function(A){
 					<div class="right_smallBtn">${Adi21.imm}</div>
 				 </div>`
 	}
-	$(".right_bottomli:eq(0)").html( strA1 );
-	$(".right_bottomli:eq(1)").html( strA11 );
-	$(".left_shoeBottom").html( strA );
-	$(".next").click(function(){
+	$(".right_bottomli:eq(0)").html(strA1);
+	$(".right_bottomli:eq(1)").html(strA11);
+	$(".left_shoeBottom").html(strA);
+	$(".next").click(function() {
 		$(".right_bottomoUl").animate({
-			"margin-left" : 0
-		},function(){
+			"margin-left": 0
+		}, function() {
 			$(".right_bottomli").last().appendTo(".right_bottomoUl")
-			$(".right_bottomoUl").css("margin-left",0)
+			$(".right_bottomoUl").css("margin-left", 0)
 		})
 	})
-	$(".prv").click(function(){
+	$(".prv").click(function() {
 		$(".right_bottomoUl").animate({
-			"margin-left" : 0
-		},function(){
+			"margin-left": 0
+		}, function() {
 			$(".right_bottomli").first().prependTo(".right_bottomoUl")
-			$(".right_bottomoUl").css("margin-left",0)
+			$(".right_bottomoUl").css("margin-left", 0)
 		})
 	})
-	
-	
-	$(".pagingUl").children("li:eq(0)").click(function(){
+
+	$(".pagingUl").children("li:eq(0)").click(function() {
 		$(".right_bottomoUl").animate({
-			"margin-left" : 0
-		},function(){
+			"margin-left": 0
+		}, function() {
 			$(".right_bottomli").first().appendTo(".right_bottomoUl")
-			$(".right_bottomoUl").css("margin-left",0)
+			$(".right_bottomoUl").css("margin-left", 0)
 		})
 	})
-	$(".pagingUl").children("li:eq(1)").click(function(){
+	$(".pagingUl").children("li:eq(1)").click(function() {
 		$(".right_bottomoUl").animate({
-			"margin-left" : 0
-		},function(){
+			"margin-left": 0
+		}, function() {
 			$(".right_bottomli").last().prependTo(".right_bottomoUl")
-			$(".right_bottomoUl").css("margin-left",0)
+			$(".right_bottomoUl").css("margin-left", 0)
 		})
 	})
-	
-	$(".last").click(function(){
+
+	$(".last").click(function() {
 		$(".right_bottomoUl").animate({
-			"margin-left" : 0
-		},function(){
+			"margin-left": 0
+		}, function() {
 			$(".right_bottomli").first().appendTo(".right_bottomoUl")
-			$(".right_bottomoUl").css("margin-left",0)
+			$(".right_bottomoUl").css("margin-left", 0)
 		})
 	})
-	$(".first").click(function(){
+	$(".first").click(function() {
 		$(".right_bottomoUl").animate({
-			"margin-left" : 0
-		},function(){
+			"margin-left": 0
+		}, function() {
 			$(".right_bottomli").last().prependTo(".right_bottomoUl")
-			$(".right_bottomoUl").css("margin-left",0)
+			$(".right_bottomoUl").css("margin-left", 0)
 		})
 	})
-	
-	$(".right_bottomshoeDiv").find(".right_li_Div_One").click(function(){
+
+	$(".right_bottomshoeDiv").find(".right_li_Div_One").click(function() {
 		location.href = "part.html"
 	})
-	$(".header_logo").click(function(){
-	location.href = "index.html"
-})
+	$(".header_logo").click(function() {
+		location.href = "index.html"
+	})
 })
 
 //鼠标移入右侧固定栏 显示隐藏div
-	$(".tubiao1").mouseenter(function(){
-		/*var index11 = $(this).not(".tubiao2").index();*/
-		$(this).find(".hidefixed").fadeIn(100).animate({"right" : 32},200)
-	})
-	$(".tubiao1").mouseleave(function(){
-		/*var index11 = $(this).not(".tubiao2").index();*/
-		$(this).find(".hidefixed").animate({"right" : 80},200).fadeOut(100)
-	})
-	//右侧导航回到顶部
-	$(".rightfixed_1 .tubiao1").last().click(function(){
-		$("html,body").animate({
-			scrollTop : 0
-		},1000)
-	})
-	//楼梯
-		$(".last").click(function(){
-			$("html,body").animate({
-			scrollTop : 0
-		},1000)
-	})
-
+$(".tubiao1").mouseenter(function() {
+	/*var index11 = $(this).not(".tubiao2").index();*/
+	$(this).find(".hidefixed").fadeIn(100).animate({
+		"right": 32
+	}, 200)
+})
+$(".tubiao1").mouseleave(function() {
+	/*var index11 = $(this).not(".tubiao2").index();*/
+	$(this).find(".hidefixed").animate({
+		"right": 80
+	}, 200).fadeOut(100)
+})
+//右侧导航回到顶部
+$(".rightfixed_1 .tubiao1").last().click(function() {
+	$("html,body").animate({
+		scrollTop: 0
+	}, 1000)
+})
+//楼梯
+$(".last").click(function() {
+	$("html,body").animate({
+		scrollTop: 0
+	}, 1000)
+})

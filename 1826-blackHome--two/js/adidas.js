@@ -7,16 +7,16 @@ var adidas = $.ajax({
 	async:true
 });
 adidas.done(function(vans){
-	var str = ""
+	var str = "";
 	for( var i = 0 ; i < vans.list.length;i++ ){
 		var res = vans.list[i];
-		str += `<em class="header_naeWen">${res.price}</em>`
-	}
-	$(".header_nav").html( str )
-})
+		str += `<em class="header_naeWen">${res.price}</em>`;
+	};
+	$(".header_nav").html( str );
+});
 $(".black_logo").click(function(){
-	open("bigImg.html")
-})
+	open("bigImg.html");
+});
 $(".header_logo").click(function(){
-	location.href = "index.html"
-})
+	location.href = "index.html";
+});
