@@ -23,7 +23,7 @@ $(function(){
 				if(st == $uname.val() && st1 == $upwd.val()) {
 					/*alert("登录成功");*/
 					/*console.log( st , st1 )*/
-					open("index.html");
+					open("indexshopCar.html");
 					/*alert("成功")*/
 				} else {
 					alert("该用户不存在，请去注册")

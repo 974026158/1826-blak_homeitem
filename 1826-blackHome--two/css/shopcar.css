@@ -203,9 +203,10 @@ h6 {
 	cursor: pointer;
 	background: #fff;
 }
-#Go_shopping .Go_shoppingBottom .Fadein_Div:hover{
+/*#Go_shopping .Go_shoppingBottom .Fadein_Div:hover{
 	border: 1px solid red;
-}
+	border-left: 1px solid red;
+}*/
 #Go_shopping .Go_shoppingBottom .Fadein_Div:nth-child(2),
 #Go_shopping .Go_shoppingBottom .Fadein_Div:nth-child(3),
 #Go_shopping .Go_shoppingBottom .Fadein_Div:nth-child(4){

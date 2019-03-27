@@ -150,7 +150,7 @@ $text1.blur(function(){
 		}
 })
 $text2.blur(function(){
-	$(".ImportName:eq(0)").hide();
+	$(".ImportName:eq(1)").hide();
 	//密码正则
 		var reg2 = /^[0-9a-zA-Z]+$/;
 		var reg4 = /\s+/;
@@ -172,6 +172,7 @@ $text2.blur(function(){
 		}
 })
 $text3.blur(function(){
+	$(".ImportName:eq(2)").hide();
 	if( $text3.val() == "" ){
 		$s7.html("再次输入密码")
 		$s7.css("color", "red").css("font-size",12)

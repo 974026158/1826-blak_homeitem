@@ -116,6 +116,20 @@ shop.done(function(sho){
 		$(".Go_shoppingBottom:eq(1)").fadeIn(600)
 		$(".Go_shoppingBottom:eq(0)").hide(600)
 	})
+	$(".Fadein_addcar").click(function(){
+		open("login.html")
+	})
+	$(".Fadein_Div").hover(function(){
+		$(this).css({
+			"border-left" : "1px solid red",
+			"border" : "1px solid red" 
+		})
+	},function(){
+		$(this).css({
+			"border-left" : "",
+			"border" : "" 
+		})
+	})
 })
 //鼠标移入右侧固定栏 显示隐藏div
 	$(".tubiao1").mouseenter(function(){
@@ -137,6 +151,7 @@ shop.done(function(sho){
 			$("html,body").animate({
 			scrollTop : 0
 		},1)
+			
 	})
 /*跳转到主页*/
 $(".header_logoOne").click(function(){
