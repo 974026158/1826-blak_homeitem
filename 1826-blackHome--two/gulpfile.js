@@ -11,7 +11,7 @@ var imagemin = require("gulp-imagemin");//压缩图片文件
 var babel = require("gulp-babel");
 var es2015 = require("babel-preset-es2015");
 gulp.task("comcss",function(){
-	gulp.src("css/*.css").pipe(cssmin())
+	gulp.src("css/*.css").pipe(cssmin())  
 						 .pipe(rename({"suffix":".min"})) 
 						 .pipe( gulp.dest("./dest") )
 });
